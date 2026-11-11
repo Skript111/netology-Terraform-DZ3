@@ -42,5 +42,5 @@
 
 **Скриншот содержимого файла `hosts.cfg`:**
 ![Ansible Inventory](img/zad4.png) 
-![Ansible Inventory](img/4.png) 
+![Ansible Inventory](img/hosts.png) 
 
